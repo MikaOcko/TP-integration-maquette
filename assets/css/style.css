@@ -35,7 +35,7 @@ text-decoration: none
 /*Hero*/
 .hero
 {
-    background-image: url(/assets/image/slide-2.jpg);
+    background-image: url(assets/image/slide-2.jpg);
     position: static;
     background-size: cover;
     background-repeat: no-repeat ;
